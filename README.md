@@ -17,6 +17,8 @@ The Police_Stops.ipynb file is how I explored the data and created the graphs.
 2. Pedestrian stops of black people among occur 5.7 times more often than for white people. Vehicle stops of black people occur 3 times that of white people. Stops of Hispanic people occur a little more often than stops of white people.
 3. Yes. Stops of people of Multiple Descents result in post stop activity 40% of the time. For Black people, this occurs 34% of time. For Hispanic people, 30% of the time. White stops result in post stop activity 17% of the time. 
 
+Read my blog post for more detailed results: https://medium.com/@jordan.nish/exploring-lapd-stops-from-the-2010-decade-8a4acbab5d0f
+
 ## Acknowledgements
 
 The updated dataset can be downloaded here: https://data.lacity.org/A-Safe-City/Vehicle-and-Pedestrian-Stop-Data-2010-to-Present/ci25-wgt7
